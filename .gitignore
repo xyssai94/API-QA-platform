@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# 数据库
+data/qa.db
+*.db
+*.sqlite3
+
+# 环境变量
+.env
+.env.*
+
+# Node / 前端
+node_modules/
+dist/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
